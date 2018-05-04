@@ -8,7 +8,7 @@ as begin
 	declare @quedarme as bit
 	if @punts <=2
 		set @quedarme=0
-	else
+	else if @punts<=6
 		set @quedarme=1
 	return @quedarme
 end
