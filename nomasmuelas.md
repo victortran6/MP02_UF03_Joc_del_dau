@@ -20,7 +20,7 @@ BEGIN
 		end else begin
 				set @boolean=1
 				set @contador=0
-				end
+		end
 	end else begin
 		set @boolean=1
 		set @contador=0
