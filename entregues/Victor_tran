@@ -1,0 +1,15 @@
+#vtran
+
+Create function @mElsQuedo (@jugador as int, @dau as int)
+returns integer
+	declare @mElsQuedo int;
+
+	if @dau BETWEEN 0 and 4
+	begin
+	set @mElsQuedo = 0
+	end;
+
+else
+	begin
+	set @mElsQuedo = 1
+	end;	
