@@ -1,4 +1,4 @@
-#vtran
+# vtran
 
 Create function @mElsQuedo (@jugador as int, @dau as int)
 returns integer
