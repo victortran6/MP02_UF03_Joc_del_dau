@@ -1,4 +1,4 @@
-#Eric
+#Prova
 
 La meva estrategia serà quedar-me el número si és 4 o més gran, si no li donaré el número a l'altre.
 
